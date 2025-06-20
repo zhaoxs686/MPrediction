@@ -10,7 +10,7 @@ conda install scikit-learn
 
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=11.8 -c pytorch -c nvidia
 
-pip install dgl==2.0.0+cu118 -f https://data.dgl.ai/wheels/cu118/repo.html
+pip install dgl==2.0.0+cu118
 
 conda install rdkit
 
